@@ -1,0 +1,9 @@
+[submodule "extlibs/NCEPLIBS-bacio"]
+	path = extlibs/NCEPLIBS-bacio
+	url = https://github.com/NOAA-EMC/NCEPLIBS-bacio.git
+[submodule "extlibs/NCEPLIBS-w3emc"]
+	path = extlibs/NCEPLIBS-w3emc
+	url = https://github.com/NOAA-EMC/NCEPLIBS-w3emc.git
+[submodule "extlibs/NCEPLIBS-sp"]
+	path = extlibs/NCEPLIBS-sp
+	url = https://github.com/NOAA-EMC/NCEPLIBS-sp.git
